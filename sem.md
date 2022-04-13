@@ -51,4 +51,4 @@ https://git-scm.com/book/ru/v2/Основы-Git-Просмотр-истории-
 Подробно на английском тут:
 [git-checkout]https://git-scm.com/docs/git-checkout
 
-![Привет, это из книжки кусочек](git_checkout.jpg)
+![Из книжки кусочек](git_checkout.jpg)
