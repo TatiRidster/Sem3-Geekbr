@@ -75,3 +75,4 @@ git checkout 2f3hy
 [git-checkout]https://git-scm.com/docs/git-checkout
 
 ![Из книжки кусочек](git_checkout.jpg)
+## 9. Игнорирование файлов
