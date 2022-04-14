@@ -76,3 +76,9 @@ git checkout 2f3hy
 
 ![Из книжки кусочек](git_checkout.jpg)
 ## 9. Игнорирование файлов
+
+Таблица
+branch1 | branch2 | branch3 |
+--- | --- | ---|
+branch11 | branch21 | branch31 |
+branch111 | branch211 | branch311 |
