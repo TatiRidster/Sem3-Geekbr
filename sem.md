@@ -69,3 +69,4 @@ https://git-scm.com/book/ru/v2/Основы-Git-Просмотр-истории-
 [git-checkout]https://git-scm.com/docs/git-checkout
 
 ![Из книжки кусочек](git_checkout.jpg)
+## 9. Игнорирование файлов
