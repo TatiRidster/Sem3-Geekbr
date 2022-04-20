@@ -1,3 +1,4 @@
+![logo git](Git-Logo.png)
 # Work with Git
  
 ## 1. Check initialization Git
